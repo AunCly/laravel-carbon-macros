@@ -36,6 +36,8 @@ A handy collection of `Illuminate\Support\Carbon` date helpers
 - isBoxingDay
 - isNewYearsEve
 
+Test
+
 ### Other Dates
 
 - [Brazil](./docs/brazil.md)
